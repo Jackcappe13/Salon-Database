@@ -1,5 +1,5 @@
 # Salon-Database
-Salon Database
+
 I uploaded both salon and salon(2) which is the final version of the test solution.
 While working on salon.sh I understood that the assignment didn't require a case selection with different menus as in the bike shop tutorial.
 Still I realized that it would have worked and so finished passed the test with the solution in salon.sh file.
