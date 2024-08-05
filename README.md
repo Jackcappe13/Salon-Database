@@ -6,4 +6,4 @@ Still I realized that it would have worked and so I passed the test with the sol
 Then after finishing the solution I refactored the code as in file salon.sh(2)
 
 Both solutions contain a minor bug, the name of the client has one extraspace when the phone number and the name are already present in the database.
-If the phone number is not present and the input for name is requested than there is only one space between the comma and the <name>, otherwise there are 2 spaces.
+If the phone number is not present and the input for name is requested than there is only one space between the comma and the name, otherwise there are 2 spaces.
